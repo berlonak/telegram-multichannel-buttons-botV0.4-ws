@@ -93,3 +93,7 @@ tgposter/
 - Colored buttons use the `style` field of inline keyboard buttons. Older Telegram clients
   may show them as regular buttons.
 - The package version string is `4.0.0`; the directory name says `V0.4`.
+
+## License
+
+Copyright 2026 berlonak. Licensed under the [Apache License, Version 2.0](LICENSE).
